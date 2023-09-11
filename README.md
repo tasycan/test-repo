@@ -27,6 +27,9 @@ This repo is an **organized collection** of resources to help you learn how to b
 
 This is a continually updated, open source project.
 
+YCT
+Meta Front End Developer
+
 [Contributions](#contributing) are welcome!
 
 ### Prep for the system design interview
